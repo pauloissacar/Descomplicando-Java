@@ -1,8 +1,8 @@
 package com.noovi.maratonajava.introducao;
 
-public class EstruturasDeRepeticao01 {
+public class Aula05EstruturasDeRepeticaoPt01 {
     public static void main(String[] args) {
-        // while, do while, for.
+        // Temos as seguintes estruturas de repetição: while, do while, for.
         int contador = 1;
         while(contador <= 10){
             System.out.println(contador);
