@@ -7,7 +7,7 @@ public class EstruturasDeRepeticao03 {
         int valor = 50;
 
         for (int i = 1; i <= valor; i++) {
-            if (i < 25) {
+            if (i > 25) {
                 break;
             }
             System.out.println(i);
